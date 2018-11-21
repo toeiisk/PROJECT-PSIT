@@ -11,7 +11,7 @@ def getfile():
     sepparate(table)
 def sepparate(table):
     #price is bitcoin price list from 20/11/2016 to 19/11/2018 
-    price = [float(s[1]) for s in table]
+    price = [int(float(s[1])*100)/100 for s in table]
     date = []
     # determine the day to plot to graph in chart.x_labels
     for i in range(0, len(table)):
