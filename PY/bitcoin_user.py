@@ -17,13 +17,13 @@ def sepparate(table):
     for i in range(0, len(table)):
         date.append(table[i][0][:table[i][0].find(" ")])
     #------------------------------------------------------
-    chart = pg.Line(x_label_rotation=20, x_labels_major_count=8, show_minor_x_labels=False, truncate_legend=40, legend_at_bottom=True, truncate_label=100)
+    chart = pg.Line(x_label_rotation=0, x_labels_major_count=3, show_minor_x_labels=False, truncate_legend=40, legend_at_bottom=True, truncate_label=100)
     # Chart title
-    chart.title = 'Blockchain Wallet Users'
+    chart.title = 'Increasing of Blockchain Wallet Users'
     # X-Axis Label is the day from 29/11/2011 to 19/11/2018
     chart.x_labels = date
     # Y-Axis and label
-    chart.add('Blockchain User', blockchain_user)
+    chart.add('Blockchain User', blockchain_user, dots_size=0.8)
     # Range of Y-Axis value
     chart.range = [1,32000000]
     # Save chart into file
