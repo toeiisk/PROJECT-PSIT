@@ -1,3 +1,3 @@
 # PROJECT-PSIT
-<a href=""><img src="img/pic1.jpg" width="800px"  height="400"></a><br>
+<a href=""><img src="img/pic1.jpg" width="1000px"  height="200"></a><br>
 Bitcoin Price over the years 2017-2018
