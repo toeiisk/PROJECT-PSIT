@@ -2,4 +2,4 @@
 <a href=""><img src="img/pic1.jpg" width="1000px"  height="300"></a><br>
 <h3>Bitcoin Price over the years 2017-2018</h3>
 
- <a href=""><img src="img/pic2.png" width="50px" height="50"></a>Explain.
+ <a href=""><img src="img/pic2.png" width="50px" height="50"></a><h2>Explain.</h3>
