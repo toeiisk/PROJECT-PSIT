@@ -18,7 +18,7 @@
 
 นักพัฒนาด้านซอฟต์แวร์ผู้ใช้นามแฝงว่า ซาโตชิ นาคาโมโตะ เป็นผู้พัฒนา Bitcoin ขึ้นมาซึ่งเป็นระบบจ่ายเงินที่อ้างอิงอยู่บนการถอดสมการคณิตศาสตร์ โดยจุดประสงค์ของเขาคือการสร้างสกุลเงินที่เป็นอิสระจากรัฐบาลและธนาคาร, สามารถส่งหากันผ่านระบบอินเทอร์เนตและมีค่าธรรมเนียมที่ถูกมากๆ
 
-# Member
+# ♂ Member
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="img/profile3.png" width="100px"  height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="img/profile4.png" width="100px"  height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="img/profile2.png" width="100px"  height="100"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="img/profile1.png" width="100px"  height="100"></a>
 
