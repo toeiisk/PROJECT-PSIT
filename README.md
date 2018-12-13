@@ -20,7 +20,7 @@
 
 
 # Member
- <a href=""><img src="img/profile3.png" width="200px"></a>  61070060     นายเด่นภูมิ  ศรีเมือง
- <a href=""><img src="img/profile2.png" width="200px"></a>  61070203     นายวรวรรษ  คำนงค์
- <a href=""><img src="img/profile4.png" width="200px"></a>  61070238     นายสหัสวรรษ  ขันรักษา
- <a href=""><img src="img/profile1.png" width="200px"></a>  61070245     นายสุกฤษฎิ์  ลีลากรกิจ
+ <a href=""><img src="img/profile3.png" width="150px" height="150"></a>  61070060     นายเด่นภูมิ  ศรีเมือง
+ <a href=""><img src="img/profile2.png" width="150px" height="150"></a>  61070203     นายวรวรรษ  คำนงค์
+ <a href=""><img src="img/profile4.png" width="150px" height="150"></a>  61070238     นายสหัสวรรษ  ขันรักษา
+ <a href=""><img src="img/profile1.png" width="150px" height="150"></a>  61070245     นายสุกฤษฎิ์  ลีลากรกิจ
