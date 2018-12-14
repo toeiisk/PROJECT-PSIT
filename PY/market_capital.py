@@ -1,9 +1,10 @@
 """Project:PSIT:Top 10 alternative cryptocurrency in pie graph"""
 import csv
 import pygal as pg
+from pygal.style import DarkStyle
 def getfile():
     #get in input from data base in CSV 
-    market_capital_csv = open('market_capital.csv')
+    market_capital_csv = open('C:\\Users\\User\\Desktop\\projectpsit\\alternative\\market_capital.csv')
     data_capital = csv.reader(market_capital_csv)
     # "table" is store data that compound with 10 part 
     # [Ranking : Name : Symbol : Market capital : Price : Transaction : Volume : %1h : %2h : %7d]
@@ -26,11 +27,11 @@ def sepparate(table):
     other_cryto = (sum(top10marketcap_captital)-top10marketcap_captital[0])
     other_cryto = float("%.2f"%other_cryto)
     #------------------------------------------------------
-    pie_chart = pg.Pie(inner_radius=.4, truncate_legend=40, legend_at_bottom=True, truncate_label=100)
-    pie_chart.title = 'Market capital of cryptocurrency'
-    pie_chart.add('Other', other_cryto)
+    pie_chart = pg.Pie(style=DarkStyle, inner_radius=.4, truncate_legend=40, legend_at_bottom=True, truncate_label=100)
+    pie_chart.title = 'Market capital of cryptocurrency(Unit : Million US Dollars)'
+    pie_chart.add('Other', other_cryto//1000000)
     for i in range(1, 11):
-        pie_chart.add(top10marketcap_name[i], (top10marketcap_captital[i])//1)
-    pie_chart.render_to_file('market_cap.svg')
+        pie_chart.add(top10marketcap_name[i], (top10marketcap_captital[i])//1000000)
+    pie_chart.render_to_file('C:\\Users\\User\\Desktop\\projectpsit\\alternative\\market_cap.svg')
 
 getfile()
