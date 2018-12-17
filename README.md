@@ -43,8 +43,8 @@
 
 
 
-- 61070060     นายเด่นภูมิ ศรีเมือง   &nbsp;&nbsp;&nbsp;&nbsp;    <strong>GITBUB</strong> &nbsp;&nbsp; [Denpoom](https://github.com/Denpoom)
-- 61070203     นายวรวรรษ คำนงค์    &nbsp;&nbsp;&nbsp;&nbsp;   <strong>GITBUB</strong> &nbsp;&nbsp; [Warrawat203](https://github.com/Warrawat203)
-- 61070238     นายสหัสวรรษ ขันรักษา  &nbsp;&nbsp;&nbsp;&nbsp;  <strong>GITBUB</strong> &nbsp;&nbsp; [sahussawud](https://github.com/sahussawud)
-- 61070245     นายสุกฤษฎิ์ ลีลากรกิจ  &nbsp;&nbsp;&nbsp;&nbsp;   <strong>GITBUB</strong> &nbsp;&nbsp; [toeiisk](https://github.com/toeiisk)
+- 61070060     นายเด่นภูมิ ศรีเมือง   &nbsp;&nbsp;&nbsp;&nbsp;    <strong>GITHUB</strong> &nbsp;&nbsp; [Denpoom](https://github.com/Denpoom)
+- 61070203     นายวรวรรษ คำนงค์    &nbsp;&nbsp;&nbsp;&nbsp;   <strong>GITHUB</strong> &nbsp;&nbsp; [Warrawat203](https://github.com/Warrawat203)
+- 61070238     นายสหัสวรรษ ขันรักษา  &nbsp;&nbsp;&nbsp;&nbsp;  <strong>GITHUB</strong> &nbsp;&nbsp; [sahussawud](https://github.com/sahussawud)
+- 61070245     นายสุกฤษฎิ์ ลีลากรกิจ  &nbsp;&nbsp;&nbsp;&nbsp;   <strong>GITHUB</strong> &nbsp;&nbsp; [toeiisk](https://github.com/toeiisk)
 
