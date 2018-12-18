@@ -29,7 +29,7 @@
 
 #### [WEBSITE](http://www.it.kmitl.ac.th/~it61070245/project/index.html)
 
-#### [YOUTUBE](https://www.youtube.com/)
+#### [YOUTUBE](https://www.youtube.com/watch?v=69RARiQNd1s&t=&fbclid=IwAR1UMvwvVkb13asgKazsz4V8GU4xbr2zs66qxllTDhfOxEQJeRdFdKrv5i4)
 
 ### Built-With
 * Python `3.7.0`
